@@ -125,5 +125,5 @@ This project stands on the shoulders of giants. A primary source of inspiration 
 3.  **Run the script:**
     ```bash
     python main.py
-    ```#   h _ b a r n  
- 
+    ```
+
